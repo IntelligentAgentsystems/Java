@@ -23,7 +23,7 @@ Use it on your own risk!~
 
 The original code of this was based on a tutorial I found and updated to work with Akka 2.6 by me,
 I then reworked the code to make better use of modern Akka.
-Nevertheless, I take NO responsibility for the correct application of the actuator pattern
+Nevertheless, I take NO responsibility for the correct application of the actor model
 nor the efficiency of the code nor the correct use of the Akka framework.
 
 Feel free to update, correct, improve or update this repo as you see fit!
